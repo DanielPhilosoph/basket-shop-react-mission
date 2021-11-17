@@ -1,0 +1,8 @@
+#body {
+  background: -webkit-linear-gradient(-135deg, #999999, #999999);
+  background: -o-linear-gradient(-135deg, #999999, #999999);
+  background: -moz-linear-gradient(-135deg, #999999, #999999);
+  background: linear-gradient(-135deg, #999999, #999999);
+  width: 100%;
+  min-height: 70vh;
+}
